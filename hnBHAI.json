@@ -1,0 +1,9 @@
+{
+  "update": "Yes",
+  "new_version": "0.8.3",
+  "apk_file_url": "https://drive.google.com/uc?export=download&id=1Ek469fIaXBL3DFjuFDYWbcFdSCxarDQG",
+  "update_log": "1, add and delete credit card interface.\r\n2, add vip authentication.\r\n3, distinguish custom consumption, one hour unlimited.\r\n4, add abandon task interface, do not generate within hours .\r\n5, the consumption task is manually generated.",
+  "target_size": "5M",
+  "new_md5":"b97bea014531123f94c3ba7b7afbaad2",
+  "constraint": false
+}
