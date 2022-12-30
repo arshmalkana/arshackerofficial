@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Arsh Sidhu</h1>
 <h3 align="center">A passionate fullstack developer from India</h3>
 
-- 🔭 I’m currently working on [Metashow](https://play.google.com/store/apps/details?id=com.metashow.in)
+- 🔭 I’m currently working on Metashow (Private Project)
 
 - 🌱 I’m currently learning **Android Studio, React, Flutter etc.**
 
