@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on I’m currently working on [AH Punjab Reporting](https://play.google.com/store/apps/details?id=com.ahpunjab.app.reportingapp)
 
-- 🌱 I’m currently learning **Android Studio, React, Flutter etc.**
+- 🌱 I’m currently learning **Android Studio, React etc.**
 
 - 💬 Ask me about **Hacking or Development**
 
