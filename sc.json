@@ -1,27 +1,7 @@
-{ 
-
-   "v1":1,
-
-   "v2":0,
-
-   "v3":"
-
-   \nSecret Screenshot Without Knowing Sender
-
-   \nSecret Screen Record Without Knowing Sender
-
-   \nHide Typing... indicator in Chat (Don't notify sender that you're typing)
-
-   \nHide Online in Chat
-
-   \nHide View Snap
-
-   \nHide View Story
-
-   \nHide Read Messages
-
-   \nVideo Length Limit Increased to Unlimited (Removes the Video Time Limit restrictions when sending videos from the gallery in Chat.)",
-
-   "website":"https://arshacker.me/"
-
+{
+  "licensedMacs": [
+    "04:CF:4B:34:39:6A",
+    "11:22:33:44:55:66",
+    "AA:BB:CC:DD:EE:FF"
+  ]
 }
